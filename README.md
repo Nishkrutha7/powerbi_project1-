@@ -1,2 +1,1 @@
-# powerbi_project1-
-This is my first project after learning powerbi
+# About my first project after learning powerbi
